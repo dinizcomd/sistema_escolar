@@ -1,0 +1,23 @@
+
+==============================
+        BOLETIM ESCOLAR
+==============================
+
+Aluno: matheus
+Série: 1a
+
+Faltas: 50
+Presença: 75.00%
+
+--------------------------------
+MÉDIAS DAS MATÉRIAS:
+Português: 3
+Matemática: 3
+Geografia: 3
+História: 6.75
+Química: 3
+--------------------------------
+MÉDIA GERAL: 3.75
+
+STATUS FINAL: REPROVADO ❌
+--------------------------------
