@@ -82,3 +82,10 @@ MÉDIA GERAL: 7.24
 
 STATUS FINAL: APROVADO ✅
 --------------------------------
+
+Nome dos integrantes:
+Matheus Almeida Diniz RA:2506636
+Luciano Do Nascimento Simonato RA:2503990
+Geovanna Cristina dos Santos RA:2504583
+Murilo Matos Cornacini RA:2506560
+Maria Eduarda De Morais RA:2508726
